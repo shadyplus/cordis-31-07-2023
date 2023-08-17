@@ -820,7 +820,7 @@ a .content::after {
     position: absolute;
     top: 0;
     left: 0;
-    background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 13px -394px;
+    94px;
     width: 48px;
     height: 48px;
     border-left: 1px solid rgb(22, 123, 175);
@@ -859,7 +859,7 @@ a .content::after {
 .search {
   padding: 18px 24px 0;
   float: left;
-  /* background: transparent url('../img/icons.png') tpa=hipertonium-ru-3-kfsji/index_files/icons.png no-repeat scroll 24px -193px; */
+  /* ; */
   width: 20px;
   height: 30px;
 }
@@ -910,7 +910,7 @@ a .content::after {
 
 .search__form .search__submit {
   display: block;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -211px;
+  x;
   width: 24px;
   border: medium none;
   cursor: pointer;
@@ -1521,7 +1521,7 @@ a .content::after {
   top: -2px;
   width: 25px;
   height: 25px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll -1px -453px;
+  53px;
 }
 
 .article,
@@ -1622,6 +1622,8 @@ a .content::after {
 
 .article__text img {
   max-width: 100%;
+  width: 512px;
+    border-radius: 20px;
 }
 
 .article__text p {
@@ -1662,7 +1664,6 @@ a .content::after {
 .aside-menu__list-item_has-child::after {
   content: "";
   position: absolute;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -537px;
   width: 11px;
   height: 18px;
   top: 18px;
@@ -1741,7 +1742,6 @@ a .content::after {
   left: 28px;
   width: 6px;
   height: 25px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -643px;
 }
 
 .share .ya-share2__container .ya-share2__item_service_twitter:hover .ya-share2__icon::before {
@@ -1783,7 +1783,7 @@ a .content::after {
   left: 28px;
   width: 6px;
   height: 25px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -643px;
+  
 }
 
 .share .ya-share2__container .ya-share2__counter::before {
@@ -1793,7 +1793,7 @@ a .content::after {
   left: -6px;
   width: 6px;
   height: 25px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -643px;
+  
   margin: 0;
 }
 
@@ -1910,7 +1910,6 @@ a .content::after {
   margin: -13px 0 0 -13px;
   height: 26px;
   width: 26px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 0;
 }
 
 .media__main .media__main-item_video::after {
@@ -1926,7 +1925,6 @@ a .content::after {
   text-align: center;
   font: 12px/17px "RobotoLight", sans-serif;
   color: rgb(255, 255, 255);
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -1510px;
   z-index: 99;
 }
 
@@ -1938,7 +1936,6 @@ a .content::after {
   left: 26px;
   width: 10px;
   height: 18px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll -11px -937px;
 }
 
 .media__main .owl-prev::before {
@@ -1967,7 +1964,6 @@ a .content::after {
   height: 18px;
   top: 22px;
   left: 26px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -937px;
 }
 
 .media__main .owl-next::before {
@@ -2019,7 +2015,6 @@ a .content::after {
   margin: -13px 0 0 -13px;
   height: 26px;
   width: 26px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 0;
 }
 
 .theme-media .media__carousel .owl-prev::after {
@@ -2030,7 +2025,6 @@ a .content::after {
   left: 15px;
   width: 10px;
   height: 18px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll -11px -937px;
 }
 
 .theme-media .media__carousel .owl-next::after {
@@ -2041,7 +2035,6 @@ a .content::after {
   height: 18px;
   top: 12px;
   left: 17px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 0 -937px;
 }
 
 .owl-carousel .owl-wrapper::after {
@@ -2117,7 +2110,7 @@ a .content::after {
   position: absolute;
   top: 0;
   left: 3px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ repeat scroll 0 -1779px;
+  
   width: 24px;
   height: 25px;
 }
@@ -2521,7 +2514,7 @@ a .content::after {
   position: absolute;
   top: 60px;
   left: 12px;
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ repeat scroll 0 -1779px;
+  
   width: 24px;
   height: 25px;
 }
@@ -2579,7 +2572,7 @@ a .content::after {
   width: 31px;
   height: 35px;
   border-left: 1px solid rgb(204, 204, 204);
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 7px -832px;
+  2px;
 }
 
 .search-ext__date::after {
@@ -2591,7 +2584,7 @@ a .content::after {
   width: 31px;
   height: 35px;
   border-left: 1px solid rgb(204, 204, 204);
-  background: transparent url('../img/icons.png') /*tpa=hipertonium-ru-3-kfsji/index_files/icons.png*/ no-repeat scroll 6px -790px;
+  0px;
   cursor: pointer;
 }
 
